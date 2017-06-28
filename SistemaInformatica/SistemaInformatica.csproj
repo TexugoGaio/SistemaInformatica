@@ -59,6 +59,7 @@
     <Compile Include="CAMADAS\MODEL\Produto.cs" />
     <Compile Include="CAMADAS\MODEL\Venda.cs" />
     <Compile Include="CAMADAS\Relatórios\FunRel.cs" />
+    <Compile Include="CAMADAS\Relatórios\RelClientes.cs" />
     <Compile Include="CAMADAS\Relatórios\RelProdutos.cs" />
     <Compile Include="Cliente.cs">
       <SubType>Form</SubType>

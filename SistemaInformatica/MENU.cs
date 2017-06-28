@@ -165,5 +165,10 @@ namespace SistemaInformatica
         {
             CAMADAS.Relatórios.RelProdutos.impRelProd();
         }
+
+        private void btnRelCli_Click(object sender, EventArgs e)
+        {
+            CAMADAS.Relatórios.RelClientes.impRelCli();
+        }
     }
 }

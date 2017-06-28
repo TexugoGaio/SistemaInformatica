@@ -21,7 +21,7 @@ namespace SistemaInformatica.CAMADAS.Relatórios
             string folder = FunRel.diretorioPasta();
             string arquivo = folder + @"\RelProdutos.html";
             using (StreamWriter sw = new StreamWriter(arquivo))
-            {
+            {   
                 sw.WriteLine("<html>");
                 sw.WriteLine("<head>");
                 sw.WriteLine(@"<meta http-equive=\Content-type\Content=\'html;charset=utf-8\'>");
@@ -39,6 +39,7 @@ namespace SistemaInformatica.CAMADAS.Relatórios
                 sw.WriteLine("</tr>");
                 int cont = 0;
                 float soma = 0;
+                int estoque;
                 //detalhes itens do relatorio
                 foreach(CAMADAS.MODEL.Produto produto in lstProd)
                 {
@@ -49,7 +50,9 @@ namespace SistemaInformatica.CAMADAS.Relatórios
                     sw.WriteLine("<td width ='90px' align='right'>" + produto.estoque + "</td>");
                     sw.WriteLine("<td width ='30px' align='center'>" + produto.valor + "</td>");
                     cont++;
-                    soma = soma + produto.valor;
+                    estoque = produto.estoque;
+                    soma = soma + (produto.valor * estoque);
+
                 }
                 //fim da tabela
                 sw.WriteLine("</table");

@@ -32,7 +32,6 @@
             this.btnProdutos = new System.Windows.Forms.Button();
             this.btnNovaVenda = new System.Windows.Forms.Button();
             this.gpbVenda = new System.Windows.Forms.GroupBox();
-            this.btnRelatorio = new System.Windows.Forms.Button();
             this.gpbCadastros = new System.Windows.Forms.GroupBox();
             this.btnRelProd = new System.Windows.Forms.Button();
             this.btnRelCli = new System.Windows.Forms.Button();
@@ -82,7 +81,7 @@
             // 
             this.btnNovaVenda.Location = new System.Drawing.Point(31, 30);
             this.btnNovaVenda.Name = "btnNovaVenda";
-            this.btnNovaVenda.Size = new System.Drawing.Size(149, 88);
+            this.btnNovaVenda.Size = new System.Drawing.Size(337, 88);
             this.btnNovaVenda.TabIndex = 2;
             this.btnNovaVenda.Text = "&NOVA VENDA";
             this.btnNovaVenda.UseVisualStyleBackColor = true;
@@ -91,7 +90,6 @@
             // gpbVenda
             // 
             this.gpbVenda.BackColor = System.Drawing.Color.Salmon;
-            this.gpbVenda.Controls.Add(this.btnRelatorio);
             this.gpbVenda.Controls.Add(this.btnNovaVenda);
             this.gpbVenda.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gpbVenda.Location = new System.Drawing.Point(112, 67);
@@ -100,15 +98,6 @@
             this.gpbVenda.TabIndex = 3;
             this.gpbVenda.TabStop = false;
             this.gpbVenda.Text = "VENDAS";
-            // 
-            // btnRelatorio
-            // 
-            this.btnRelatorio.Location = new System.Drawing.Point(215, 28);
-            this.btnRelatorio.Name = "btnRelatorio";
-            this.btnRelatorio.Size = new System.Drawing.Size(149, 88);
-            this.btnRelatorio.TabIndex = 3;
-            this.btnRelatorio.Text = "RELATÓRIO VENDAS";
-            this.btnRelatorio.UseVisualStyleBackColor = true;
             // 
             // gpbCadastros
             // 
@@ -143,6 +132,7 @@
             this.btnRelCli.TabIndex = 2;
             this.btnRelCli.Text = "RELATÓRIO CLIENTES";
             this.btnRelCli.UseVisualStyleBackColor = true;
+            this.btnRelCli.Click += new System.EventHandler(this.btnRelCli_Click);
             // 
             // gpbConsulta
             // 
@@ -327,7 +317,6 @@
         private System.Windows.Forms.Button btnProdutos;
         private System.Windows.Forms.Button btnNovaVenda;
         private System.Windows.Forms.GroupBox gpbVenda;
-        private System.Windows.Forms.Button btnRelatorio;
         private System.Windows.Forms.GroupBox gpbCadastros;
         private System.Windows.Forms.GroupBox gpbConsulta;
         private System.Windows.Forms.GroupBox gpbCliente;
