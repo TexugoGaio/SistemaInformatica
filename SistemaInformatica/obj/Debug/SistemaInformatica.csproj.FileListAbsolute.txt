@@ -1,0 +1,24 @@
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\obj\Debug\SistemaInformatica.csprojResolveAssemblyReference.cache
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\obj\Debug\SistemaInformatica.Properties.Resources.resources
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\obj\Debug\SistemaInformatica.csproj.GenerateResource.Cache
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\bin\Debug\SistemaInformatica.exe.config
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\bin\Debug\SistemaInformatica.exe
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\bin\Debug\SistemaInformatica.pdb
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\obj\Debug\SistemaInformatica.exe
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\obj\Debug\SistemaInformatica.pdb
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\obj\Debug\SistemaInformatica.frmCliente.resources
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\obj\Debug\SistemaInformatica.MENU.resources
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\obj\Debug\SistemaInformatica.frmProduto.resources
+C:\Users\felip\onedrive\documentos\visual studio 2017\Projects\SistemaInformatica\SistemaInformatica\obj\Debug\SistemaInformatica.frmVenda.resources
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\bin\Debug\SistemaInformatica.exe.config
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\bin\Debug\SistemaInformatica.exe
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\bin\Debug\SistemaInformatica.pdb
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\obj\Debug\SistemaInformatica.csprojResolveAssemblyReference.cache
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\obj\Debug\SistemaInformatica.frmCliente.resources
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\obj\Debug\SistemaInformatica.frmProduto.resources
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\obj\Debug\SistemaInformatica.MENU.resources
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\obj\Debug\SistemaInformatica.Properties.Resources.resources
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\obj\Debug\SistemaInformatica.frmVenda.resources
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\obj\Debug\SistemaInformatica.csproj.GenerateResource.Cache
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\obj\Debug\SistemaInformatica.exe
+C:\Users\felip\Source\Repos\ProjetoFelipe\SistemaInformatica\obj\Debug\SistemaInformatica.pdb
